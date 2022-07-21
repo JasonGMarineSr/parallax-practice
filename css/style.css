@@ -1,2 +1,22 @@
+body {
 font-family: 'Fascinate', cursive;
 font-family: 'Roboto Slab', serif;
+}
+
+navbar{
+     background-color: indianred;
+}
+.parallax {
+    /* The image used */
+    background-image: url("img/joshua-koblin-eqW1MPinEV4-unsplash.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
