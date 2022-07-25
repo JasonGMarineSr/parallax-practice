@@ -4,7 +4,12 @@ font-family: 'Roboto Slab', serif;
 }
 
 navbar{
-     background-color: indianred;
+     background-color: rgb(223, 49, 49);
+}
+.container{
+    background-color: coral;
+    flex-wrap: wrap-reverse;
+    
 }
 .parallax {
     /* The image used */
